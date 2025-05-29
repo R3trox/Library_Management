@@ -3,11 +3,13 @@
 A Java Swing-based application for managing a small library system. This system allows users to manage books, register members, issue and return books, search, and view lending history with timestamps.
 
 ![img.png](images/img.png)
-🚀 How to Run
+
+📦 Repository:
 
 https://github.com/R3trox/Library_Management
 
-Requirements:
+
+🛠️ Requirements:
 
 Java Development Kit (JDK) 8 or above
 
@@ -15,17 +17,19 @@ An IDE like IntelliJ IDEA, Eclipse, or any text editor
 
 Optionally, terminal/command prompt for compilation and execution
 
-Steps:
+🚀 How to Run:
 
-1. Using IDE:
+Using an IDE:
 
-Open your IDE and import the project folder containing the .java files.
+1. Clone or download the repository.
 
-Set the MainGUI class as the main class.
+2. Open the project in your preferred IDE.
 
-Run the application.
+3. Set MainGUI.java as the main class.
 
-2. Using Terminal (Command Line):
+4. Run the application.
+
+Using Terminal (Command Line):
 
 Navigate to the directory containing the source files, e.g., src/com/example/library.
 
@@ -86,3 +90,22 @@ Lending history is tracked and displayed via a scrollable GUI component.
 🖥️ User Interface:
 
 Developed using Java Swing.
+
+📂 Project Structure:
+
+<pre> ``` 📁 src/
+        └── 📁 main/
+            └── 📁 java/
+                └── 📁 com/
+                    └── 📁 example/ 
+                        └── 📁 library/ 
+                            ├── Book.java 
+                            ├── BookNotAvailableException.java 
+                            ├── LendingHistoryEntry.java   
+                            ├── LibraryFileHandler.java 
+                            ├── LibrarySystem.java 
+                            ├── MainGUI.java 
+                            ├── MaxLimitReachedException.java 
+                            └── Member.java 
+                            ``` </pre>
+
