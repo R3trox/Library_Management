@@ -17,6 +17,8 @@ Steps:
 
 1. Using IDE:
 
+https://github.com/R3trox/Library_Management
+
 Open your IDE and import the project folder containing the .java files.
 
 Set the MainGUI class as the main class.
