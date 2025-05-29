@@ -5,6 +5,8 @@ A Java Swing-based application for managing a small library system. This system 
 ![img.png](images/img.png)
 🚀 How to Run
 
+https://github.com/R3trox/Library_Management
+
 Requirements:
 
 Java Development Kit (JDK) 8 or above
@@ -16,8 +18,6 @@ Optionally, terminal/command prompt for compilation and execution
 Steps:
 
 1. Using IDE:
-
-https://github.com/R3trox/Library_Management
 
 Open your IDE and import the project folder containing the .java files.
 
